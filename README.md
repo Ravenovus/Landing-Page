@@ -3,4 +3,7 @@
 An introduction page to a portfolio - project.
 
 
-Credits: Keyboard and Mouse logo taken from Pixabay - "IO-Images"
+Credits:
+    Pixabay:
+    - Keyboard and Mouse logo - "IO-Images"
+    - Keyboard buttons (placeholder) - "Clker-Free-Vector-Images"
