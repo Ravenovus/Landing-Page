@@ -86,8 +86,12 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 36px;
     gap:16px;
     padding: 16px;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
 
 .card-container{
@@ -102,6 +106,8 @@ button{
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 18px;
+    font-weight: 100;
 }
 
 .card > img{
@@ -109,3 +115,32 @@ button{
     border-color: #3882f6;
     border-style: double;
 }
+
+
+.body-bottom{
+    background-color: #e5e7eb;
+    display: flex;
+
+}
+
+.quote-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+ .quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: light;
+    font-style: italic;
+ }
+
+ .quotant{
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1f2937;
+ }
