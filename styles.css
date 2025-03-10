@@ -120,7 +120,7 @@ button{
 .body-bottom{
     background-color: #e5e7eb;
     display: flex;
-
+    padding: 24px;
 }
 
 .quote-container{
@@ -144,3 +144,53 @@ button{
     font-weight: bold;
     color: #1f2937;
  }
+
+ .footer{
+    display: flex;
+    justify-content: center;
+    padding:24px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+ }
+
+ .action-call{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    display:flex;
+    justify-content:space-between;
+    font-weight: bold;
+    padding: 24px;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 10px;
+    gap: 120px;
+ }
+
+
+ .call-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 0px;
+ }
+
+#action-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#subtext{
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.action-call > .contact{
+    padding-bottom: 8px%;
+}
+
+ .action-call > .contact >button{
+    border-color: white;
+    align-self: center;
+ }
+
+ 
